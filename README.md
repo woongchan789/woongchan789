@@ -5,7 +5,7 @@
 
 <div align=center>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WoongChan%20Nam&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=WoongChan%20Nam&fontSize=40&fontColor=ffffff" />
 
 </div>
 
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/></a>&nbsp
 </p>
 
-**Social & E-mail**
+**Social**
 
 <p align="center">
   <a href="https://www.instagram.com/skandcks/" height="5" width="10" target="_blank">
@@ -43,5 +43,7 @@
 
 ---
 
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=woongchan789&show_icons=true&theme=chartreuse-dark" align="center" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=woongchan789&show_icons=true&theme=chartreuse-dark" align="center" width="49%">
+</p>
