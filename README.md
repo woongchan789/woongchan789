@@ -38,15 +38,10 @@
 
   <a href="https://woongchan789.tistory.com/" height="5" width="10" target="_blank">
 	  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&">
-  <a>
-    
-  <a href="woongchan789@naver.com" height="5" width="10" target="_blank">
-	  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&">
-  <a>
-    
-  <a href="woong0795@g.hongik.ac.kr" height="5" width="10" target="_blank">
-	  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&">
-  <a>
+  <a>	  
 </p>
+
+---
+
 
 
