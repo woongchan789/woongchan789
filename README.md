@@ -5,7 +5,7 @@
 
 <div align=center>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WoongChan%20Nam&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WoongChan%20Nam&fontSize=40&fontColor=ffffff" />
 
 </div>
 
