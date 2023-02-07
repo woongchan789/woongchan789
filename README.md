@@ -29,11 +29,24 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/></a>&nbsp
 </p>
 
-**Social&Contact**
+**Social & E-mail**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/skandcks/"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=woongchan789@naver.com"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=woong0795@g.hongik.ac.kr"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://woongchan789.tistory.com/"/></a>&nbsp
+  <a href="https://www.instagram.com/skandcks/" height="5" width="10" target="_blank">
+	  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&">
+  <a>
+
+  <a href="https://woongchan789.tistory.com/" height="5" width="10" target="_blank">
+	  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&">
+  <a>
+    
+  <a href="woongchan789@naver.com" height="5" width="10" target="_blank">
+	  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&">
+  <a>
+    
+  <a href="woong0795@g.hongik.ac.kr" height="5" width="10" target="_blank">
+	  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&">
+  <a>
 </p>
+
+
