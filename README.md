@@ -47,5 +47,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=woongchan789&show_icons=true&theme=chartreuse-dark" align="center" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=woongchan789&show_icons=true&theme=chartreuse-dark" align="center" width="49%">
+  <img src="https://leetcode-stats-six.vercel.app/?username=woongchannam&theme=dark" align="center" width="44%">
 </p>
