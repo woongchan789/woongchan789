@@ -1,6 +1,6 @@
 ### Interests
 
-My research interests are computer vision, 3D anomaly detection, and vision-language models.
+My research interests are 3D anomaly detection, LLM and vision-language models.
 
 ### Contact
 
